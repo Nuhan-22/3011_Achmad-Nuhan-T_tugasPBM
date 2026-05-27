@@ -12,8 +12,5 @@ Simple Flutter Mobile App with:
 
 ## Screenshots
 
-### Home
-![Home](screenshots/home.png)
+(screenshots.png)
 
-### Upload
-![Upload](screenshots/upload.png)
